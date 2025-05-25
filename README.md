@@ -8,6 +8,7 @@
 ![항공이 정보 이미지](/readme_img/Info.png)
 
 ### 인천공항 입ㆍ출입 항공편 정보 조회 및 환율 정보 실시간 제공 서비스 
+[항공이_Discord 추가](https://discord.com/oauth2/authorize?client_id=1271753799660474439)
 
 ## 📌 명령어 사용법
 
